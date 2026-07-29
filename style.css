@@ -239,6 +239,24 @@ span{
         margin-bottom: 0;
         padding-bottom: 0;
     }
+}
 
+@media only screen and (max-width: 365px){
+    .right-detail h1{
+        font-size: 25px;
+        margin-top: 5px;
+        margin-bottom: 0;
+    }
 
+    .detail-college {
+        margin-left: 2px;
+        margin-right: 2px;
+        margin-top: 15px;
+    }
+
+    .right-detail h3{
+        font-size: 15px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
 }
