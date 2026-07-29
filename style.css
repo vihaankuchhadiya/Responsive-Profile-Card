@@ -90,7 +90,7 @@ a i:hover{
 }
 
 .left-profile{
-    background-image: url(img/profile.png);
+    background-image: url(profile.png);
     background-size: cover;
     height: 130px;
     width: 130px;
